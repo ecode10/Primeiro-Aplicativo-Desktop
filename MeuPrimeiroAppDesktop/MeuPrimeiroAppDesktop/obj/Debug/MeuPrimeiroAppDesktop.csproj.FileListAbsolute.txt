@@ -1,0 +1,9 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\bin\Debug\MeuPrimeiroAppDesktop.exe.config
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\bin\Debug\MeuPrimeiroAppDesktop.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\bin\Debug\MeuPrimeiroAppDesktop.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\obj\Debug\MeuPrimeiroAppDesktop.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\obj\Debug\MeuPrimeiroAppDesktop.Form1.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\obj\Debug\MeuPrimeiroAppDesktop.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\obj\Debug\MeuPrimeiroAppDesktop.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\obj\Debug\MeuPrimeiroAppDesktop.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\MeuPrimeiroAppDesktop\MeuPrimeiroAppDesktop\obj\Debug\MeuPrimeiroAppDesktop.pdb
